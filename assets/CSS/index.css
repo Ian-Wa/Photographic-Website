@@ -35,3 +35,7 @@ body{
 .container:hover{
     background-color: #ffeedb;
 }
+
+.paragraphWrapper{
+    padding-top:50px;
+}
