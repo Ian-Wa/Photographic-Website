@@ -4,4 +4,4 @@ The creator of this website is Ian Wanjira.
 The website is created using html and css.
 Here is a link to the live website: https://ian-wa.github.io/Photographic-Website/
 Attached is the website design image
-![Design](https://github.com/Ian-Wa/Photographic-Website/master/assets/images/IMG20210718160427.jpg)
+![Design](https://github.com/Ian-Wa/Photographic-Website/assets/images/IMG20210718160427.jpg)
